@@ -11,4 +11,3 @@ This site showcases my skills, tools, and experience in DevOps and Cloud Enginee
 <div class="navigation-buttons">
   <a href="{{ site.baseurl }}/skills/" class="btn btn-primary">Next</a>
 </div>
-
