@@ -4,6 +4,11 @@ permalink: /skills/
 layout: single
 ---
 
+<div class="hero">
+  <h1>Skills</h1>
+  <p>My expertise in various DevOps and Cloud technologies.</p>
+</div>
+
 ## Skills
 
 | Skill                       | Associated Project                                                                                         |
@@ -14,4 +19,3 @@ layout: single
 | Cloud Architecture          | [Cloud Deployment Project](https://github.com/m-pasima/Cloud-Deployment-Project.git)                       |
 | Containerization            | [Kubernetes Deployment Project](https://github.com/m-pasima/Kubernetes-Deployment-Project.git)             |
 | Monitoring and Logging      | [Monitoring and Logging Project](https://github.com/m-pasima/Monitoring-and-Logging-Project.git)           |
-
