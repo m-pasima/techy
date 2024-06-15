@@ -42,7 +42,8 @@ header img {
 }
 
 .navbar-brand img {
-  max-height: 50px;
+  height: auto;
+  width: 150px;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -114,7 +115,18 @@ table .table {
   border-radius: 5px;
 }
 
-.navigation-buttons a:hover {
+.navigation-buttons a.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.navigation-buttons a.btn-primary:hover {
   background-color: #0056b3;
+}
+
+/* Logo image styles */
+.logo-img {
+  height: auto;
+  width: 200px; /* Adjust this value to make the logo larger */
 }
 
