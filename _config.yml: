@@ -21,33 +21,6 @@ paginate: 5
 github_username: m-pasima
 linkedin_username: nyanga-p-674721258
 
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "single"
-      author: "Nyanga P"
-
-author:
-  name: "Nyanga P"
-  avatar: "/assets/images/nyanga-p.jpg" # Add your avatar image path here
-  bio: "DevOps and Cloud Engineer with over 7 years of experience."
-  location: "Birmingham, UK"
-  email: "passypet@gmail.com"
-  links:
-    - label: "GitHub"
-      url: "https://github.com/m-pasima"
-      icon: "fab fa-github"
-    - label: "LinkedIn"
-      url: "https://www.linkedin.com/in/nyanga-p-674721258/"
-      icon: "fab fa-linkedin"
-
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-
 collections:
   pages:
     output: true
@@ -67,6 +40,5 @@ nav_links:
     url: "/interests/"
   - title: "Contact"
     url: "/contact/"
-
 
 
