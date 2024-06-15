@@ -65,9 +65,4 @@ layout: single
 - Conducted manual production deployments using Linux commands for precise release control and immediate issue resolution.
 - Engaged in continuous learning and mentorship by shadowing senior engineers, addressing complex issues with proficient support.
 
-<div class="navigation-buttons">
-  <a href="{{ site.baseurl }}/skills/" class="btn btn-primary">Previous</a>
-  <a href="{{ site.baseurl }}/education/" class="btn btn-primary">Next</a>
-</div>
-
 
