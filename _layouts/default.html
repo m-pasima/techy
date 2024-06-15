@@ -24,8 +24,16 @@
       </ul>
     </div>
   </nav>
-  <div class="container">
+  <div class="container mt-4">
     {{ content }}
+    <div class="navigation-buttons">
+      {% if page.previous %}
+        <a href="{{ page.previous.url }}" class="btn btn-primary">Previous</a>
+      {% endif %}
+      {% if page.next %}
+        <a href="{{ page.next.url }}" class="btn btn-primary">Next</a>
+      {% endif %}
+    </div>
   </div>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
