@@ -70,3 +70,4 @@ layout: single
   <a href="{{ site.baseurl }}/education/" class="btn btn-primary">Next</a>
 </div>
 
+
