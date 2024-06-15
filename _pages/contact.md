@@ -4,6 +4,11 @@ permalink: /contact/
 layout: single
 ---
 
+<div class="hero">
+  <h1>Contact</h1>
+  <p>Get in touch with me.</p>
+</div>
+
 ## Contact
 
 **Nyanga P**  
