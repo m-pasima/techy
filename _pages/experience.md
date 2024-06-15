@@ -4,6 +4,11 @@ permalink: /experience/
 layout: single
 ---
 
+<div class="hero">
+  <h1>Professional Experience</h1>
+  <p>My journey and achievements in DevOps and Cloud Engineering.</p>
+</div>
+
 ## Professional Experience
 
 ### Senior DevOps Engineer, Atomix LTD
@@ -64,5 +69,6 @@ layout: single
 - Maintained hardware and software infrastructure in compliance with best practices, including security and data protection strategies.
 - Conducted manual production deployments using Linux commands for precise release control and immediate issue resolution.
 - Engaged in continuous learning and mentorship by shadowing senior engineers, addressing complex issues with proficient support.
+
 
 
