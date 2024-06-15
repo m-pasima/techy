@@ -3,7 +3,7 @@ email: passypet@gmail.com
 description: >-
   Nyanga P is a DevOps and Cloud Engineer with over 7 years of experience, dedicated to leveraging expertise in cloud solutions, automation, and CI/CD processes to drive efficiency and innovation in technology environments.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://m-pasima.github.io" # the base hostname & protocol for your site
+url: "https://m-pasima.github.io/techy" # the base hostname & protocol for your site
 
 theme: minimal-mistakes-jekyll
 
@@ -43,18 +43,11 @@ author:
       url: "https://www.linkedin.com/in/nyanga-p-674721258/"
       icon: "fab fa-linkedin"
 
-# Layout configuration
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
 
-# Navigation links
 nav_links:
   - title: "Home"
     url: "/"
