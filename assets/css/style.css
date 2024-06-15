@@ -1,0 +1,101 @@
+/* Custom styles for the portfolio site */
+
+/* General styles */
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Header styles */
+header {
+  background-color: #ffffff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #e7e7e7;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header h1 {
+  color: #0072b1;
+  margin: 0;
+}
+
+header img {
+  max-height: 80px;
+}
+
+/* Navigation styles */
+.navbar {
+  margin-bottom: 20px;
+}
+
+.navbar-brand img {
+  max-height: 50px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #0072b1;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #0056b3;
+}
+
+/* Table styles */
+table {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #212529;
+  border-collapse: collapse;
+}
+
+table th,
+table td {
+  padding: 0.75rem;
+  vertical-align: top;
+  border: 1px solid #dee2e6;
+}
+
+table thead th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #dee2e6;
+}
+
+table tbody + tbody {
+  border-top: 2px solid #dee2e6;
+}
+
+table .table {
+  background-color: #fff;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  header {
+    text-align: center;
+  }
+
+  header img {
+    margin-bottom: 10px;
+  }
+
+  header div {
+    text-align: center;
+  }
+
+  .navbar-collapse {
+    justify-content: center;
+  }
+}
