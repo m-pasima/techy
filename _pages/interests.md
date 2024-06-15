@@ -1,6 +1,6 @@
 ---
 title: "Interests"
-permalink: "/interests/"
+permalink: /interests/
 layout: single
 ---
 
@@ -8,3 +8,8 @@ layout: single
 
 - Reading
 - Travelling
+
+<div class="navigation-buttons">
+  <a href="{{ site.baseurl }}/education/" class="btn btn-primary">Previous</a>
+  <a href="{{ site.baseurl }}/contact/" class="btn btn-primary">Next</a>
+</div>
