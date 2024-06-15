@@ -4,6 +4,10 @@ permalink: /about/
 layout: single
 ---
 
-Hi, my name is **Nyanga P**, and I am a DevOps and Cloud Engineer.
+<div class="hero">
+  <h1>About Me</h1>
+  <p>Hi, my name is <span style="color: #0072b1;">Nyanga P</span>, and I am a DevOps and Cloud Engineer.</p>
+</div>
 
 This site showcases my skills, tools, and experience in DevOps and Cloud Engineering.
+
