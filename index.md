@@ -25,4 +25,3 @@ Welcome to my professional portfolio website. Explore the links above to learn m
 - [Interests]({{ site.baseurl }}/interests/)
 - [Contact]({{ site.baseurl }}/contact/)
 
-Welcome to my professional portfolio website. Explore the links above to learn more about my skills, experience, education, and interests.
