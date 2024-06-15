@@ -4,7 +4,7 @@ title: Home
 ---
 
 <header style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="logo.png" alt="NP Logo" style="width: 400px; height: auto; margin-right: 20px;">
+  <img src="{{ site.baseurl }}/logo.png" alt="NP Logo" style="width: 400px; height: auto; margin-right: 20px;">
   <div style="flex-grow: 1;">
     <h1>Nyanga P - DevOps and Cloud Engineer</h1>
     <p>
@@ -16,3 +16,4 @@ title: Home
 </header>
 
 Welcome to my professional portfolio website. Explore the links above to learn more about my skills, experience, education, and interests.
+
