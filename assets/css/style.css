@@ -43,7 +43,7 @@ header img {
 
 .navbar-brand img {
   height: auto;
-  width: 200px;
+  width: 150px;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -52,6 +52,24 @@ header img {
 
 .navbar-light .navbar-nav .nav-link:hover {
   color: #0056b3;
+}
+
+/* Hero section */
+.hero {
+  background: url('{{ site.baseurl }}/assets/images/hero.jpg') no-repeat center center;
+  background-size: cover;
+  color: white;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1.25rem;
 }
 
 /* Table styles */
@@ -129,5 +147,4 @@ table .table {
   height: auto;
   width: 200px; /* Adjust this value to make the logo larger */
 }
-
 
