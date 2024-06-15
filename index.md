@@ -3,7 +3,7 @@ layout: home
 ---
 
 <header style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="{{ site.baseurl }}/logo.png" alt="NP Logo" class="logo-img" style="width: 200px; height: auto; margin-right: 20px;">
+  <img src="{{ site.baseurl }}/logo.png" alt="NP Logo" class="logo-img" style="width: 400px; height: auto; margin-right: 20px;">
   <div style="flex-grow: 1;">
     <h1>Nyanga P - DevOps and Cloud Engineer</h1>
     <p>
