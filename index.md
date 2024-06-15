@@ -1,10 +1,9 @@
 ---
-layout: default
-title: Home
+layout: home
 ---
 
 <header style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="{{ site.baseurl }}/logo.png" alt="NP Logo" style="width: 400px; height: auto; margin-right: 20px;">
+  <img src="{{ site.baseurl }}/logo.png" alt="NP Logo" class="logo-img" style="width: 200px; height: auto; margin-right: 20px;">
   <div style="flex-grow: 1;">
     <h1>Nyanga P - DevOps and Cloud Engineer</h1>
     <p>
@@ -17,11 +16,4 @@ title: Home
 
 Welcome to my professional portfolio website. Explore the links above to learn more about my skills, experience, education, and interests.
 
-## Navigation
-- [About]({{ site.baseurl }}/about/)
-- [Skills]({{ site.baseurl }}/skills/)
-- [Experience]({{ site.baseurl }}/experience/)
-- [Education]({{ site.baseurl }}/education/)
-- [Interests]({{ site.baseurl }}/interests/)
-- [Contact]({{ site.baseurl }}/contact/)
 
