@@ -15,7 +15,3 @@ layout: single
 | Containerization            | [Kubernetes Deployment Project](https://github.com/m-pasima/Kubernetes-Deployment-Project.git)             |
 | Monitoring and Logging      | [Monitoring and Logging Project](https://github.com/m-pasima/Monitoring-and-Logging-Project.git)           |
 
-<div class="navigation-buttons">
-  <a href="{{ site.baseurl }}/about/" class="btn btn-primary">Previous</a>
-  <a href="{{ site.baseurl }}/experience/" class="btn btn-primary">Next</a>
-</div>
