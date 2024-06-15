@@ -51,6 +51,8 @@ kramdown:
 nav_links:
   - title: "Home"
     url: "/"
+  - title: "About"
+    url: "/about/"
   - title: "Skills"
     url: "/skills/"
   - title: "Experience"
@@ -61,4 +63,5 @@ nav_links:
     url: "/interests/"
   - title: "Contact"
     url: "/contact/"
+
 
