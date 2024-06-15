@@ -16,3 +16,13 @@ title: Home
 </header>
 
 Welcome to my professional portfolio website. Explore the links above to learn more about my skills, experience, education, and interests.
+
+## Navigation
+- [About]({{ site.baseurl }}/about/)
+- [Skills]({{ site.baseurl }}/skills/)
+- [Experience]({{ site.baseurl }}/experience/)
+- [Education]({{ site.baseurl }}/education/)
+- [Interests]({{ site.baseurl }}/interests/)
+- [Contact]({{ site.baseurl }}/contact/)
+
+Welcome to my professional portfolio website. Explore the links above to learn more about my skills, experience, education, and interests.
