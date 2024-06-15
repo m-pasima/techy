@@ -1,10 +1,7 @@
-title: Nyanga P - DevOps and Cloud Engineer
-email: passypet@gmail.com
-description: >-
-  Nyanga P is a DevOps and Cloud Engineer with over 7 years of experience, dedicated to leveraging expertise in cloud solutions, automation, and CI/CD processes to drive efficiency and innovation in technology environments.
-baseurl: "" # Use "" if at the root of your site
-url: "https://m-pasima.github.io/techy" # The base hostname & protocol for your site
-
+title: "Nyanga P - DevOps and Cloud Engineer"
+description: "Professional portfolio showcasing skills and experience in DevOps and Cloud Engineering."
+baseurl: "/techy" # the subpath of your site
+url: "https://m-pasima.github.io" # the base hostname & protocol for your site
 theme: minimal-mistakes-jekyll
 
 plugins:
@@ -16,10 +13,6 @@ plugins:
   - jekyll-archives
 
 paginate: 5
-
-# Social Links
-github_username: m-pasima
-linkedin_username: nyanga-p-674721258
 
 collections:
   pages:
@@ -47,6 +40,7 @@ nav_links:
     url: "/interests/"
   - title: "Contact"
     url: "/contact/"
+
 
 
 
