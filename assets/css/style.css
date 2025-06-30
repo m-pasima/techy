@@ -164,3 +164,9 @@ table .table {
   width: 200px; /* Adjust this value to make the logo larger */
 }
 
+/* Highlight the active navigation item */
+.nav-item.active > .nav-link {
+  font-weight: bold;
+  color: var(--primary-hover);
+}
+
