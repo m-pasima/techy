@@ -11,7 +11,7 @@ layout: single
 
 ## Contact
 
-**Nyanga P**  
+**M N Pasima**
 Email: [passypet@gmail.com](mailto:passypet@gmail.com)  
 Location: Birmingham, UK  
 Pronouns: She/Her
