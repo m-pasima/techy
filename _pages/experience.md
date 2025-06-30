@@ -12,64 +12,35 @@ layout: single
 
 ## Professional Experience
 
-### Senior DevOps Engineer, Atomix LTD
-**March 2023 – Present | Suffolk, United Kingdom**
+### DevOps Engineer, Atomix.ai
+**June 2022 – June 2025 | Bury St Edmunds, Suffolk, UK**
 
-- Planned and architected infrastructure deployment using Draw.io, ensuring compliance with security and data regulations.
-- Set up OpenVPN for secure user access, including the creation of users and groups, and assigned permissions based on the principle of least privilege.
-- Established self-hosted CI/CD pipelines using GitHub Actions for automation processes.
-- Deployed services in Google Cloud Platform (GCP) using Terraform and Terragrunt, focusing on Infrastructure as Code (IaC). This involved setting up various services such as Virtual Private Cloud (VPC) and its components, private Google Kubernetes Engine (GKE) clusters, Artifact Registry, Identity and Access Management (IAM), service accounts, and Secrets Manager.
-- Utilized Terraform to create GCP groups, add team members, and assign relevant privileges.
-- Configured and developed Helm charts from scratch for deploying tools like Argo CD, Redis, and PostgreSQL and production applications.
-- Employed Helm charts for deploying monitoring tools such as Prometheus and Grafana, and for creating Grafana dashboards.
-- Modified and enhanced Bash scripts and Python scripts for automation purposes.
-- Deployed applications into private GKE clusters using Helm charts and performed troubleshooting of containerized applications in Kubernetes.
-- Configured and managed the rotation of secrets in GCP Secrets, setup Cloudflare and implemented SSL certificates in private clusters using Terraform.
-- Set up monitoring metrics in the GCP environment.
-- Configured and set up disaster recovery solutions in the production environment.
-- Planned projects, broke down tasks, and created Jira tasks.
-- Documented projects using Confluence.
+- Architected and deployed multi-AZ Kubernetes clusters (EKS, GKE), improving scalability by 50% and reducing infrastructure costs by 30%.
+- Developed Terraform & Terragrunt IaC modules for VPC, subnets, IAM and load balancers across AWS and GCP, reducing provisioning time by 70%.
+- Built CI/CD pipelines with Jenkins, Maven, SonarQube and Nexus, reducing deployment cycles by 80% and improving release quality.
+- Automated configuration management with Ansible, achieving 99.99% uptime for 200+ servers and streamlining patching.
+- Customized Helm charts for production tools (Argo CD, Redis, PostgreSQL) in private GKE clusters, increasing deployment efficiency by 40%.
+- Spearheaded migration to Docker and Kubernetes, improving resource utilization by 60% and simplifying management.
 
-### DevOps Engineer, BP
-**April 2020 – March 2023 | London, United Kingdom**
+### Build and Release Engineer, SKY MEDIA
+**January 2020 – May 2022 | London**
 
-- Engineered intricate CI/CD pipelines, utilizing Jenkins and GitHub Actions, allowing faster and reliable deployments.
-- Led the transition from a monolithic architecture to a microservices-based setup, from Tomcat to EKS substantially improving system reliability and scalability.
-- Implemented a robust monitoring solution incorporating elevated security protocols within Linux-based systems, Docker containers, and Kubernetes clusters in both AWS EKS and GCP GKE.
-- Created and configured OpenVPN, creating user groups for secure and role-based access. Used VPNs for secure CI/CD deployments.
-- Wrote Terraform and Terragrunt scripts for automated infrastructure provisioning on AWS.
-- Utilized Ansible with dynamic inventory for server configuration.
-- Involved in the recruitment process, training new team members, and introducing them to our technology stack.
-- Regularly attended job-related seminars and training sessions to keep up-to-date with the latest industry trends and technologies.
-- Configured and set up IAM roles for contractors.
-- Configured and set up various AWS services, including Application Load Balancer (ALB), Virtual Private Cloud (VPC), subnets, CloudFront, Relational Database Service (RDS), DynamoDB, Route 53, Web Application Firewall (WAF), Simple Storage Service (S3), Elastic File System (EFS), Identity and Access Management (IAM), Secrets Manager, Certificate Manager, CloudWatch, and Auto Scaling groups, among others.
-
-### Build and Release Engineer, Sky
-**November 2017 – March 2020 | London, United Kingdom**
-
-- Developed an automated build process integrating Jenkins, Git, Maven, SonarQube, Nexus, Docker, Ansible, and Terraform.
-- Collaborated across teams for web software build, release, and deployment projects.
-- Created Jenkinsfile for automated deployments.
-- Configured and managed Jenkins server for CI/CD pipelines.
-- Automated the software development process and monitored infrastructure performance using New Relic.
-- Modified Helm charts for deployments.
-- Ensured compliance with the company’s DevOps standards.
-- Configured NACL, ACL, and security groups on AWS for access control.
-- Supported and maintained hardware and software infrastructure on Linux-based systems.
-- Performed manual production deployments and shadowed senior engineers.
-- Participated in project planning and task allocation.
+- Automated multi-cloud (AWS/GCP) infrastructure provisioning using Terraform and Terragrunt, reducing manual deployment time by 70% and enabling repeatable environments for over 30 projects.
+- Designed and implemented scalable network topologies—including VPCs, subnets and load balancers—supporting 10+ production applications with 99.99% uptime.
+- Set up and managed Jenkins pipelines integrated with Maven, SonarQube and Nexus, accelerating build and release cycles by 60% and improving code quality.
+- Containerized and orchestrated applications using Docker and Kubernetes (GKE), increasing deployment efficiency by 50% and enabling zero downtime rollouts.
+- Developed monitoring checks using Bash scripting and ELK Stack, reducing incident response time by 40% and improving observability.
+- Managed IAM policies and secured communications, passing all compliance audits and eliminating unauthorized access incidents.
 
 ### Junior AWS Cloud and Linux Engineer, Diebold Nixdorf Software Partner B.V.
-**June 2016 – September 2017 | Bromley, United Kingdom**
+**July 2017 – December 2019**
 
-- Leveraged AWS Cloud Practitioner expertise for robust AWS service deployment including EC2, VPC, Security Groups, ASG, IAM, Route 53, and ELB.
-- Utilized Infrastructure as Code (Terraform) for automated AWS resource provisioning, enhancing deployment efficiency and environment consistency.
-- Administered RHEL operating systems, ensuring system reliability, performance, and security through regular updates and patch management.
-- Applied Agile methodology for collaborative project delivery, participating in stand-ups, sprint planning, and retrospectives.
-- Engineered cloud solutions with AWS, setting up scalable and resilient architectures for enterprise applications.
-- Maintained hardware and software infrastructure in compliance with best practices, including security and data protection strategies.
-- Conducted manual production deployments using Linux commands for precise release control and immediate issue resolution.
-- Engaged in continuous learning and mentorship by shadowing senior engineers, addressing complex issues with proficient support.
+- Maintained and supported over 100+ Linux servers, automating backups and monitoring with shell scripting, reducing manual workload by 40%.
+- Supported Jenkins continuous delivery pipelines and integrated SonarQube, improving code quality by 25% and providing faster feedback.
+- Dockerized and orchestrated 20+ small-scale applications, improving deployment consistency and reducing environment-related incidents by 35%.
+- Managed version control workflows with Git and GitHub, tracking over 150 development tasks and releases with Jira.
+- Ensured system reliability and security through regular patch management, reducing vulnerabilities by 30% and maintaining 99.9% uptime.
+- Administered AWS cloud infrastructure for internal projects, scaling compute resources to handle 50% more load without degradation.
 
 <div class="navigation-buttons">
   <a href="{{ site.baseurl }}/skills/" class="btn btn-primary">Previous</a>

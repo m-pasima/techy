@@ -11,8 +11,8 @@ layout: single
 
 ## Education
 
-**BSc Computer Science, Landmark Metropolitan University**  
-Buea, Cameroon
+**BA (Hons) History, University Buea**
+Cameroon
 
 <div class="navigation-buttons">
   <a href="{{ site.baseurl }}/experience/" class="btn btn-primary">Previous</a>

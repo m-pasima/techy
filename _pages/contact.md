@@ -11,10 +11,12 @@ layout: single
 
 ## Contact
 
-**Nyanga P**  
+**M N Pasima**
 Email: [passypet@gmail.com](mailto:passypet@gmail.com)  
+LinkedIn: [nyanga-p-674721258](https://www.linkedin.com/in/nyanga-p-674721258/)
 Location: Birmingham, UK  
 Pronouns: She/Her
+Phone: +447533020152
 
 <div class="navigation-buttons">
   <a href="{{ site.baseurl }}/interests/" class="btn btn-primary">Previous</a>
