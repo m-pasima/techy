@@ -14,6 +14,9 @@ layout: home
   </div>
 </header>
 
-Welcome to my professional portfolio website. Explore the links above to learn more about my skills, experience, education, and interests.
-
-
+<div class="hero">
+  <p>Welcome to my professional portfolio where I share projects and insights on DevOps and cloud automation.</p>
+  <div class="navigation-buttons">
+    <a href="{{ site.baseurl }}/about/" class="btn btn-primary">Learn More About Me</a>
+  </div>
+</div>
