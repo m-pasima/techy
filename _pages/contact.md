@@ -23,16 +23,18 @@ layout: single
   <li>Phone: +447533020152</li>
 </ul>
 
-<form class="contact-form" action="mailto:passypet@gmail.com" method="post" enctype="text/plain">
-  <div class="form-group">
-    <label for="name">Name</label>
-    <input type="text" id="name" name="name" class="form-control" required>
-  </div>
-  <div class="form-group">
-    <label for="message">Message</label>
-    <textarea id="message" name="message" rows="4" class="form-control" required></textarea>
-  </div>
-  <button type="submit" class="btn btn-primary">Send</button>
+<!-- modify this form HTML and place wherever you want your form -->
+<form action="https://formspree.io/f/xjkrlarr" method="POST">
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
 </form>
 
 <div class="navigation-buttons">
