@@ -12,14 +12,13 @@ layout: single
 
 ## Skills
 
-| Skill                       | Associated Project                                                                                         |
-|-----------------------------|-----------------------------------------------------------------------------------------------------------|
-| CI/CD Automation            | [CI/CD Pipeline Project](https://github.com/m-pasima/CI-CD-Pipeline-Project)                               |
-| Infrastructure as Code (IaC)| [AWS 3 Tier architecture with ECS Terraform Project](https://github.com/m-pasima/Aws-terraform-multi-tier-application.git) |
-| Security and Compliance     | [Security Implementation Project](https://github.com/m-pasima/Security-Implementation-Project.git)         |
-| Cloud Architecture          | [Cloud Deployment Project](https://github.com/m-pasima/Cloud-Deployment-Project.git)                       |
-| Containerization            | [Kubernetes Deployment Project](https://github.com/m-pasima/Kubernetes-Deployment-Project.git)             |
-| Monitoring and Logging      | [Monitoring and Logging Project](https://github.com/m-pasima/Monitoring-and-Logging-Project.git)           |
+* Terraform, Terragrunt, Ansible
+* Jenkins, Maven, SonarQube, Nexus, GitHub Actions
+* Docker, Kubernetes
+* Tomcat, Nginx, Linux, Bash scripting
+* Git, GitHub, Jira
+* AWS IAM, cloud security, logging, and troubleshooting
+* Cloud & Infrastructure: AWS (EC2, IAM, VPC, Subnets, Load Balancers), GCP, EKS, GKE
 
 <div class="navigation-buttons">
   <a href="{{ site.baseurl }}/about/" class="btn btn-primary">Previous</a>
