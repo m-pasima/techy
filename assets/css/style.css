@@ -170,3 +170,30 @@ table .table {
   color: var(--primary-hover);
 }
 
+/* Contact page styles */
+.contact-list {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.contact-list li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.contact-list i {
+  margin-right: 8px;
+  color: var(--primary-color);
+}
+
+.contact-form {
+  max-width: 400px;
+  margin-top: 20px;
+}
+
+.contact-form .form-group {
+  margin-bottom: 15px;
+}
+
