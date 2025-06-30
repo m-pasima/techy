@@ -56,8 +56,8 @@ header img {
 
 /* Hero section */
 .hero {
-  /* Use a gradient background to avoid requiring an image file */
-  background: linear-gradient(135deg, #0072b1 0%, #004466 100%);
+  background: url('{{ site.baseurl }}/assets/images/hero.jpg') no-repeat center center;
+  background-size: cover;
   color: white;
   padding: 60px 20px;
   text-align: center;
